@@ -39,7 +39,7 @@ const filepath = path.join(__dirname, filename);
 
     //    update the file data through promises
 
-       fs.promises
-       .appendFile(filepath,'\nI am a software engineer','utf-8')
-       .then(()=>console.log("your data has been updated"))
-       .catch((arr)=> console.log("error occured".arr))
+    //    fs.promises
+    //    .appendFile(filepath,'\nI am a software engineer','utf-8')
+    //    .then(()=>console.log("your data has been updated"))
+    //    .catch((arr)=> console.log("error occured".arr))
