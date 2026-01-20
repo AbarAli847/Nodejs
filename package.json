@@ -1,0 +1,22 @@
+{
+  "name": "abrar-ali",
+  "version": "1.0.0",
+  "description": "world best series node and experess",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbarAli847/Nodejs.git"
+  },
+  "author": "abrar ali engineer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbarAli847/Nodejs/issues"
+  },
+  "homepage": "https://github.com/AbarAli847/Nodejs#readme",
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
