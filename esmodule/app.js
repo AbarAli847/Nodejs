@@ -8,9 +8,11 @@
   const add =  (a,b) => {
    return  a+b
 }
-const sub = (a,b) => a-b
+const dev = (a,b) =>(a/b)
+const sub = (a,b) => (a-b)
+const mult = (a,b) => (a*b)
 
-export  {add,sub} ;
+export  {add,sub,dev,mult,} ;
 
 
 
